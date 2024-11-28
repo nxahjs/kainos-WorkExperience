@@ -1,0 +1,13 @@
+.teamPic {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding:10px;
+    align-items: center;
+    height: 300px;
+
+} /* this was hard to work out lol */
+
+.teamImage {
+    max-width: 70%;
+    max-height: 70%;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="styles/css.css">
+
+<head>
+    <title>VRHome</title>
+</head>
+<body>
+    <div class="navbar">
+        <button>
+          <a href="index.html">Home</a>
+        </button>
+    
+        <button>
+          <a href="aboutUs.html">About Us</a>
+        </button>
+    
+        <button>
+          <a href="updates.html">Updates</a>
+        </button>
+        
+        <button>
+          <a href="team.html">The Team</a>
+        </button>
+
+  </div>
+  <div class="videoContainer">
+        <video autoplay muted loop class="center"><source src="https://codehs.com/uploads/010ec1e8960a785d6aee0f0c17e42613"></video>
+        <div class="overlayText">
+            <h1 >VRHome</h1>
+            <p>Control your home from the virtual world.</p>
+            <div class="indexBtn">
+                <a href="aboutUs.html"><button>Find Out More</button></a>
+                <a href="https://codehs.com/uploads/fdd3cf69ecdd3cafaead4f52f31f080c"><button>Download</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="signUp">
+        <h2>Sign Up for Updates!</h2>
+        <button><a href="updates">Sign Up Here</a></button><br><br>
+        
+    </div>

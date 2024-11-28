@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="styles/css.css">
+
+<head>
+    <title>VRHome</title>
+</head>
+<body>
+    <div class="navbar">
+        <button>
+          <a href="index.html">Home</a>
+        </button>
+    
+        <button>
+          <a href="aboutUs.html">About Us</a>
+        </button>
+    
+        <button>
+          <a href="updates.html">Updates</a>
+        </button>
+        
+        <button>
+          <a href="team.html">The Team</a>
+        </button>
+
+  </div>
+    <img src="Logo/image_2024-11-27_134610724.png" class="center">
+    <h1>VRHome</h1>
+    <p>Control your home from the virtual world</p>
+    <a href="aboutUs.html"><button>Find Out More</button></a><br><br>
+    
+    <video controls autoplay muted>
+        <
+    </video>
+    
+    <div class="signUp">
+        <h2>Sign Up for Updates!</h2>
+        <button><a href="updates">Sign Up Here</a></button><br><br>
+        
+    </div>

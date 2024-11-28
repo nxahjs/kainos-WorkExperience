@@ -1,0 +1,97 @@
+:root {
+    --background-color: #1d1d1d;
+    --font: Arial, sans-serif;
+}
+
+html {
+    background-color: var(--background-color);    
+    color: #fff;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: var(--font);
+    
+}
+
+button {
+    border: none;
+    background-color: #D8D8D7;
+    padding:10px;
+    transition: 0.5s;
+
+}
+
+button:hover {
+    border: none;
+    background-color: #707173;
+    color: #fff;
+    padding:10px;
+    
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #fff;
+    transition: 0.5s;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: red;
+  border-radius: 0px;
+
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar button {
+    background-color: red;
+    transition: 0.5s;
+}
+
+.navbar button:hover {
+    background-color: darkred;
+}
+
+.videoContainer {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.overlayText {
+  position: absolute;
+  z-index: 1;
+  text-shadow: 1px 1px 19px rgba(0,0,0,1);
+  padding-left: 5%;
+}
+.indexBtn {
+    display: flex;
+}
+
+.indexBtn a {
+    padding-right: 5%;
+}
+
+.signUp {
+    background-color: #525252;
+    padding: 5%;
+    padding-right:0;
+}
+
+.rickRoll {
+    width:60%;
+}
+
+.center {
+  width: 100%;
+}
